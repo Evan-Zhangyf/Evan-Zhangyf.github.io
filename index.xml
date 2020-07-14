@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Yifan Zhang&#39;s Blog</title>
-    <link>Evan-Zhangyf.github.io/</link>
+    <link>/</link>
     <description>Recent content in Home on Yifan Zhang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="Evan-Zhangyf.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>感觉GRE要凉了</title>
-      <link>Evan-Zhangyf.github.io/post/2020/07/14/%E6%84%9F%E8%A7%89gre%E8%A6%81%E5%87%89%E4%BA%86/</link>
+      <link>/post/2020/07/14/%E6%84%9F%E8%A7%89gre%E8%A6%81%E5%87%89%E4%BA%86/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>Evan-Zhangyf.github.io/post/2020/07/14/%E6%84%9F%E8%A7%89gre%E8%A6%81%E5%87%89%E4%BA%86/</guid>
+      <guid>/post/2020/07/14/%E6%84%9F%E8%A7%89gre%E8%A6%81%E5%87%89%E4%BA%86/</guid>
       <description>同学昨天的G，332上岸了，我感觉我走远了~
 最近又刷了遍以前的机经，感觉不会的还是不会，以前错过的照样错。GRE感觉确实比托福好准备很多，但太折磨了。最好的备考方式应该是在暑假2个月内短期突袭，然后开学就考掉。这玩意儿时间拖得越长越折磨。</description>
     </item>
     
     <item>
       <title>7.26要第一次考G了</title>
-      <link>Evan-Zhangyf.github.io/post/2020/07/09/7.26%E8%A6%81%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83g%E4%BA%86/</link>
+      <link>/post/2020/07/09/7.26%E8%A6%81%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83g%E4%BA%86/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>Evan-Zhangyf.github.io/post/2020/07/09/7.26%E8%A6%81%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83g%E4%BA%86/</guid>
+      <guid>/post/2020/07/09/7.26%E8%A6%81%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83g%E4%BA%86/</guid>
       <description>受covid-19的影响，考G一波三折，我早早报名了5.23的G，结果取消了。苦等几月，到 了7月终于G重开了，然而没有一个南京的考场可以考，伤心，无奈报了扬州。感觉准备的非常仓促，G这个东西就是要突击搞完，拖得越久单词忘得越快，做题的手感下滑越快。希望早点搞定吧，GT在手就不慌了。
 总感觉还没复习好~</description>
     </item>
     
     <item>
       <title>TRPG的革命：神界原罪2测评</title>
-      <link>Evan-Zhangyf.github.io/post/2020/06/14/trpg%E7%9A%84%E9%9D%A9%E5%91%BD%E7%A5%9E%E7%95%8C%E5%8E%9F%E7%BD%AA2%E6%B5%8B%E8%AF%84/</link>
+      <link>/post/2020/06/14/trpg%E7%9A%84%E9%9D%A9%E5%91%BD%E7%A5%9E%E7%95%8C%E5%8E%9F%E7%BD%AA2%E6%B5%8B%E8%AF%84/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>Evan-Zhangyf.github.io/post/2020/06/14/trpg%E7%9A%84%E9%9D%A9%E5%91%BD%E7%A5%9E%E7%95%8C%E5%8E%9F%E7%BD%AA2%E6%B5%8B%E8%AF%84/</guid>
+      <guid>/post/2020/06/14/trpg%E7%9A%84%E9%9D%A9%E5%91%BD%E7%A5%9E%E7%95%8C%E5%8E%9F%E7%BD%AA2%E6%B5%8B%E8%AF%84/</guid>
       <description>最近沉迷神界，太好玩了，打算写点神界原罪2的测评，先占坑。</description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>Evan-Zhangyf.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>Evan-Zhangyf.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>东南大学大四在读，出国失学党~
 研究方向：机器学习，图神经网络
 联系方式：邮箱</description>

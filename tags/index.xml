@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yifan Zhang&#39;s Blog</title>
-    <link>Evan-Zhangyf.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Yifan Zhang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="Evan-Zhangyf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GRE</title>
-      <link>Evan-Zhangyf.github.io/tags/gre/</link>
+      <link>/tags/gre/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>Evan-Zhangyf.github.io/tags/gre/</guid>
+      <guid>/tags/gre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>升学</title>
-      <link>Evan-Zhangyf.github.io/tags/%E5%8D%87%E5%AD%A6/</link>
+      <link>/tags/%E5%8D%87%E5%AD%A6/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>Evan-Zhangyf.github.io/tags/%E5%8D%87%E5%AD%A6/</guid>
+      <guid>/tags/%E5%8D%87%E5%AD%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>游戏</title>
-      <link>Evan-Zhangyf.github.io/tags/%E6%B8%B8%E6%88%8F/</link>
+      <link>/tags/%E6%B8%B8%E6%88%8F/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>Evan-Zhangyf.github.io/tags/%E6%B8%B8%E6%88%8F/</guid>
+      <guid>/tags/%E6%B8%B8%E6%88%8F/</guid>
       <description></description>
     </item>
     
