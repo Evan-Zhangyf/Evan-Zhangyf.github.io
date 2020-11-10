@@ -196,9 +196,11 @@ boss战专用bgm，初次出现在第一章末尾与亚历山大决战时，挺�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>东南大学大四在读，出国失学党~
-研究方向：机器学习，图神经网络
-联系方式：邮箱</description>
+      <description>东南大学（Southeast University）信息科学与工程学院大四在读，出国失学党~
+研究方向：机器学习，图神经网络，数据挖掘
+PUBLICATIONS *表示共同一作 Zhang, Y., Wu, G., Liu, X., Yu, W., &amp;amp; Chen, D. (2020). Maximum Markovian order detection for collective behavior. Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(8), 083121.
+Chen, D., Yang, Y., Zhang, Y., &amp;amp; Yu, W. (2020). Prediction of COVID-19 spread by sliding mSEIR observer. Information Sciences, 63(222203), 1-222203.
+Shao, Q., Zhang, Y., Chen, D., &amp;amp; Yu, W. (2020). GLGAT: Global-Local Graph Attention Network For Traffic Forecasting.</description>
     </item>
     
   </channel>
