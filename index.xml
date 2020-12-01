@@ -254,16 +254,21 @@ boss战专用bgm，初次出现在第一章末尾与亚历山大决战时，挺�
     </item>
     
     <item>
-      <title>关于我</title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>东南大学（Southeast University）信息科学与工程学院大四在读，申请季求offer中~
-研究方向：机器学习，图神经网络，数据挖掘
-PUBLICATIONS *表示共同一作 Zhang, Y., Wu, G., Liu, X., Yu, W., &amp;amp; Chen, D. (2020). Maximum Markovian order detection for collective behavior. Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(8), 083121.
-Chen, D., Yang, Y., Zhang, Y., &amp;amp; Yu, W. (2020). Prediction of COVID-19 spread by sliding mSEIR observer. Information Sciences, 63(222203), 1-222203.
-Shao, Q., Zhang, Y., Chen, D., &amp;amp; Yu, W. (2020). GLGAT: Global-Local Graph Attention Network For Traffic Forecasting.</description>
+      <description>EDUCATION Southeast University (SEU) 09/2017-07/2021
+Bachelor of Engineering in Information Engineering
+Overall GPA: 3.98/4.0 &amp;amp; 93.21/100
+Major GPA: 94.47/100
+Rank: 1/264
+RESEARCH INTERESTS Machine Learning
+Graph Neural Networks
+Data mining
+PUBLICATIONS * indicates equal contribution. Zhang, Y., Wu, G., Liu, X., Yu, W., &amp;amp; Chen, D. (2020). Maximum Markovian order detection for collective behavior. Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(8), 083121.[PDF]
+Chen, D., Yang, Y., Zhang, Y., &amp;amp; Yu, W.</description>
     </item>
     
   </channel>
