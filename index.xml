@@ -6,7 +6,16 @@
     <description>Recent content in Home on Yifan Zhang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>预习课程</title>
+      <link>/post/2021/08/14/%E9%A2%84%E4%B9%A0%E8%AF%BE%E7%A8%8B/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/08/14/%E9%A2%84%E4%B9%A0%E8%AF%BE%E7%A8%8B/</guid>
+      <description>最近把CSAPP刷完，lab也做完了，lab非常有趣，内容翔实，确实是好课！打算在开学前的这段时间内把数据库系统，分布式系统也学完，打下基础。顺便再把Java和go好好学学~</description>
+    </item>
+    
     <item>
       <title>最近网好不稳啊</title>
       <link>/post/2021/06/30/%E6%9C%80%E8%BF%91%E7%BD%91%E5%A5%BD%E4%B8%8D%E7%A8%B3%E5%95%8A/</link>
